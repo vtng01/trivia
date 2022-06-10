@@ -1,4 +1,5 @@
 # React Boilerplate with Tests
+## Trivia
 
 ![React](https://img.shields.io/badge/React-v18-blue?style=flat) ![Parcel](https://img.shields.io/badge/Parcel-v2-red?style=flat) ![Made With](https://img.shields.io/badge/Made%20With-Love-red?style=flat)
 
