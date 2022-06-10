@@ -1,6 +1,6 @@
 # React Boilerplate with Tests
 
-![React](https://img.shields.io/badge/React-v18-blue?style=flat) ![Parcel](https://img.shields.io/badge/Parcel-v2-red?style=flat) ![Jest](https://img.shields.io/badge/Jest-v28-green?style=flat) ![React Router](https://img.shields.io/badge/React%20Router-v6-blue?style=flat) ![Made With](https://img.shields.io/badge/Made%20With-Love-red?style=flat)
+![React](https://img.shields.io/badge/React-v18-blue?style=flat) ![Parcel](https://img.shields.io/badge/Parcel-v2-red?style=flat) ![Made With](https://img.shields.io/badge/Made%20With-Love-red?style=flat)
 
 
 This is a boilerplate React 18 repository, being served by Parcel, complete with Jest & React Testing Library test suite.
@@ -21,10 +21,7 @@ This is a boilerplate React 18 repository, being served by Parcel, complete with
   ```sh
   npm run start
   ```
-- Run the test suite
-  ```sh
-  npm run test
-  ```
+
 - Lint the JavaScript
   ```sh
   npm run lint
@@ -38,4 +35,4 @@ If you need a few additional dependencies, check out these different variations:
 
 ---
 
-> Made with ♥️ by [Adam Sisk](https://www.github.com/CalamityAdam)
+> Made with ♥️ by [Adam Sisk](https://www.github.com/CalamityAdam) at [Multiverse](https://www.multiverse.io/en-US)
