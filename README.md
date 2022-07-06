@@ -3,7 +3,7 @@
 ![React](https://img.shields.io/badge/React-v18-blue?style=flat) ![Parcel](https://img.shields.io/badge/Parcel-v2-red?style=flat) ![Made With](https://img.shields.io/badge/Made%20With-Love-red?style=flat)
 
 
-This is a boilerplate React 18 repository, being served by Parcel.
+A trivia app displaying 1 question with a random category
 
 ## Built With
 - ⚛️  [React](https://reactjs.org/)
