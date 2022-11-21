@@ -1,3 +1,5 @@
+![logo](https://user-images.githubusercontent.com/44912347/203095957-f44de644-0971-44c0-ac2d-92fdebb262d2.jpg)
+
 # Trivia
 
 **GOAL**: You will be building a Trivia app that will fetch data inside a componentDidMount, pass props to children components, and initialize and update state via this.setState. Together we’ll build the Trivia app to have just 1 question with a random category, but there will be plenty of additional features you can add on your own time!
